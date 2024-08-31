@@ -1,0 +1,34 @@
+@@ -0,0 +1,33 @@
+corpo {
+    cor de fundo: # 1D4221;
+    cor: branco;
+    família de fontes: "Bai Jamjuree", sem serifa;
+    Display: Flex;
+    justificar-conteúdo: centro;
+    alinhar itens: centro;
+    altura: 700px;
+    Margem: 0;
+}
+
+botão {
+    cor de fundo: # 64A712;
+    cor: branco;
+    família de fontes: "Bai Jamjuree", sem serifa;
+}
+
+. passo {
+    exibição: nenhuma;
+}
+
+. passo. ativo {
+    exibição:bloco;
+}
+
+principal {
+    alinhamento de texto: centro;
+    largura máxima: 90%;
+}
+
+img {
+    largura máxima: 90%;
+}
